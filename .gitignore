@@ -1,11 +1,11 @@
 # -----
 build/
 ffmpeg-temp/
-android/ffmpeg-*
+#android/ffmpeg-*
 android/openssl-*
-ios/ffmpeg-*
+#ios/ffmpeg-*
 ios/openssl-*
-extra
+#extra
 .DS_Store
 android/ijkmediaplayer/.settings/*
 android/ijkmediaplayer-x86/.settings/*
