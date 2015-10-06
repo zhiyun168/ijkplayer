@@ -24,4 +24,4 @@ android {
         release.setRoot('build-types/release')
     }
 }
-apply from: rootProject.file('gradle/compile-ijkplayer.gradle')
+//apply from: rootProject.file('gradle/compile-ijkplayer.gradle')
