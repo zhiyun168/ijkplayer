@@ -8,7 +8,7 @@ android {
         main {
             manifest.srcFile 'AndroidManifest.xml'
             java.srcDirs = ['src']
-            jniLibs.srcDirs = ['libs']
+            jniLibs.srcDirs = ['jniLibs']
         }
 
         // Move the tests to tests/java, tests/res, etc...
